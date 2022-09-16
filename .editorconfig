@@ -14,7 +14,7 @@ ij_smart_tabs = false
 ij_visual_guides = none
 ij_wrap_on_typing = false
 
-[{*.htm,*.html,*.ng,*.sht,*.shtm,*.shtml}]
+[*.html]
 indent_style = tab
 ij_smart_tabs = true
 ij_visual_guides = 120
